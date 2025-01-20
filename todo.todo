@@ -1,0 +1,25 @@
+# TODO
+
+###Profile Screen
+- [ ] Add a stats screen
+- [ ] Add edit profile screen
+- [ ] Add a friends screen
+- [ ] Add a settings screen
+
+
+
+###Login/Signup
+- [ ] Add a login screen
+- [ ] Add a signup screen
+- [ ] Add a forgot password screen
+- [ ] Add a reset password screen
+
+
+
+###Home Screen
+- [ ] add feed
+- [ ] create seed data to mock feed
+- [ ] add a button to add a new post
+- [ ] add a button to add a new comment
+- [ ] add a button to add a new like
+- [ ] add a button to add a new share

@@ -1,0 +1,25 @@
+{
+    "id": "1",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "createdAt": "2023-12-01",
+    "updatedAt": "2025-01-15",
+    "profile": {
+        "skillLevel": "advanced",
+        "preferredStyle": "alpine",
+        "yearsSkiing": 8,
+        "homeResort": "Snowbird"
+    },
+    "stats": {
+        "totalDays": 25,
+        "totalVertical": 152400,
+        "seasonPass": true,
+        "currentSeason": {
+            "daysSkied": 12,
+            "verticalMeters": 68300,
+            "topSpeed": 72.4,
+            "longestRun": 8.2
+        }
+    }
+}

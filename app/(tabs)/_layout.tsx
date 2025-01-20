@@ -28,11 +28,11 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="about"
+        name="account"
         options={{
-          title: 'About',
+          title: 'Account',
           tabBarIcon: ({ color, focused }) => (
-            <Ionicons name={focused ? 'information-circle' : 'information-circle-outline'} color={color} size={24}/>
+            <Ionicons name={focused ? 'person-circle' : 'person-circle-outline'} color={color} size={24}/>
           ),
         }}
       />
